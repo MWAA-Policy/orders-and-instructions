@@ -1,7 +1,6 @@
 # Table of contents
 
 * [MWAA Orders & Instructions](README.md)
-* [Security, Badging and Access Control](security-badging-and-access-control.md)
 
 ## 1. General Administrative
 
