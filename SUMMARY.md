@@ -1,6 +1,6 @@
 # Table of contents
 
-* [MWAA Orders & Instructions](README.md)
+* [Orders & Instructions](README.md)
 
 ## 1. General Administrative
 
