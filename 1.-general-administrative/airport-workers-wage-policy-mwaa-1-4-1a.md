@@ -2,7 +2,7 @@
 
 {% file src="../.gitbook/assets/mwaa-1-4-1a.pdf" caption="MWAA 1-4-1A Airport Workers Wage Policy" %}
 
-I. PURPOSE AND INTRODUCTION
+### I. PURPOSE AND INTRODUCTION
 
 This Order & Instruction, which applies to both Ronald Reagan Washington National \(“Reagan National”\) and Washington Dulles International \(“Dulles International”\) Airports, contains a set of Administrative Rules for the Metropolitan Washington Airports Authority’s \(“Authority”\) Airport Workers Wage Policy \(“Workers Wage Policy”\). The Workers Wage Policy was adopted by the Authority’s Board of Directors in April 2017. The Administrative Rules establish a set of rules, requirements and procedures that the Authority will use in the implementation and administration of the Workers Wage Policy. All Covered Businesses \(defined below\) must comply with the Workers Wage Policy and these Administrative Rules, as the policy and rules may be amended from time to time. The program established by the Authority to implement and apply the Workers Wage Policy and the Administrative Rules is referred to as the “Airport Workers Wage Program.”
 
